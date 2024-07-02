@@ -152,3 +152,39 @@ h1 {
     font-style: normal;
     font-size: 28px;
 }
+
+.cta-bg {
+padding: 100px 0;
+}
+
+.cta-container {
+    display: flex;
+    background-color: #3882F6;
+    color: white;
+    padding: 50px 0px;
+    justify-content:center;
+    border-radius: 10px;
+}
+
+.cta-head {
+    font-size: 20px;
+    font-weight: bolder
+}
+
+.cta-text {
+    font-size: 15px;
+
+}
+
+.cta-signup {
+    align-self: flex-end;
+    width: 120px;
+    height: 40px;
+    margin-left:100px;
+    font-size: 18px;
+    border-radius: 5px;
+    border:2px solid white;
+    background-color: #3882F6;
+    color: white;
+    font-weight: bolder;
+}
