@@ -64,9 +64,12 @@ h1 {
 
 .hero-image-placeholder {
     color: white;
+    display: flex;
     background-color: gray;
     flex: 1;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 205px;
 }
 
 .hero-content {
